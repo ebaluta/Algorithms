@@ -37,7 +37,6 @@ public class HourGlassArr {
        sumList.sort((o1, o2) -> o1 >= o2 ? -1 : 1);
 
         return sumList.get(0);
-
     }
 
 
